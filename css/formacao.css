@@ -180,11 +180,13 @@
     position: initial;
     margin-bottom: 10px;
   }
+  .idiomas-informatica {
+    margin-bottom: 60px;
+  }
 }
 
 @media (max-width: 400px) {
   .idiomas-informatica {
     grid-template-columns: 1fr;
-    margin-bottom: 60px;
   }
 }
